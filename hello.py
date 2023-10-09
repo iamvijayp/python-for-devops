@@ -1,1 +1,2 @@
-print('Hello from python!')
+from devopslib.randomfruit import fruit
+print(fruit())
